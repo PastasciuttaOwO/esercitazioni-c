@@ -1,5 +1,5 @@
 # esercitazioni-c
-Qui trovate i file che ho usato per passare l’esame di elementi di programmazione, magari possono tornare utili anche a voi
+Qui trovate i file che ho usato per passare l’esame di elementi di programmazione, spero possano tornare utili anche a voi
 
 All’interno trovate:
 
@@ -13,7 +13,7 @@ All’interno trovate:
   
 * Un file world con degli algoritmi generici
 
-Sul gruppo telegram invece mandato anche le slide del professore e delle tracce non svolte che ho trovato
+Sul gruppo telegram ho mandato anche le slide del professore e delle tracce non svolte che ho trovato
 
 Vi invito calorosamente ad approfondire rispetto ai file word, personalmente oltre alle domande comuni ho studiato gli algoritmi di ordinamento
 
