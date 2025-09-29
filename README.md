@@ -4,8 +4,6 @@ All’interno trovate:
 
 * Delle tracce svolte da me con i relativi input.txt
 
-* Tracce non svolte (senza input.txt)
-
 * Diversi esercizi (trovati online) che ho usato per allenarmi a programmare
 
 * La foto della traccia uscita al mio esame;
@@ -13,6 +11,8 @@ All’interno trovate:
 * Un elenco delle domande più comuni che vengono fatte all’orale.
   
 * Un file world con degli algoritmi generici
+
+Sul gruppo telegram invece mandato anche le slide del professore e delle tracce non svolte che ho trovato
 
 Vi invito calorosamente ad approfondire rispetto ai file word, personalmente oltre alle domande comuni ho studiato gli algoritmi di ordinamento
 
