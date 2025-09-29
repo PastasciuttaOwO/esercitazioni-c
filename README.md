@@ -14,8 +14,6 @@ All’interno trovate:
   
 * Un file world con degli algoritmi generici
 
-* Le slide del professore Venticinque e Magliulo
-
 Vi invito calorosamente ad approfondire rispetto ai file word, personalmente oltre alle domande comuni ho studiato gli algoritmi di ordinamento
 
 Alcuni file li ho presi da un gruppo Telegram dello scorso anno e non sono miei. Se fosse necessario rimuoverne qualcuno, potete scrivermi su Telegram: @Pastasciuttaaa.
