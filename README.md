@@ -1,5 +1,6 @@
 # esercitazioni-c
 Qui trovate i file che ho usato per passare l’esame di elementi di programmazione, magari possono tornare utili anche a voi
+
 All’interno trovate:
 
 * Delle tracce svolte da me con i relativi input.txt
