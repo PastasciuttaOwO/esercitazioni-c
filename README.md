@@ -7,8 +7,6 @@ All’interno trovate:
 
 * Diversi esercizi (trovati online) che ho usato per allenarmi a programmare
 
-* La foto della traccia uscita al mio esame;
-
 * Un elenco delle domande più comuni che vengono fatte all’orale.
   
 * Un file world con degli algoritmi generici
